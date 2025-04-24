@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "yRVcXjRnlcQ4g0poVHkraq981PvVrJSWdPe/i7wC9g0=",
+  "Source": "JornadaAPI",
+  "BasePath": "_content/JornadaAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
